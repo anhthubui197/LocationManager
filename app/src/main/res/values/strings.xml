@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Location Manager</string>
+    <string name="map_api_key">AIzaSyDNkWDiHPePS5GxR5CAgHx4-BFOW9soRys</string>
+
+</resources>
